@@ -1,5 +1,5 @@
-# coding-train-challenge-147
-Coding Trains Challenge #147 - Chrome Dinosaur Game
+# coding-train-Puppies-vs-Humans
+Based on Coding Trains Challenge #147 - Chrome Dinosaur Game
 
 
 ## Coding Trains Challenge page
